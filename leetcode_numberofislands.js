@@ -35,3 +35,5 @@ let grid = [
       
       
   }
+
+  islands(grid)
